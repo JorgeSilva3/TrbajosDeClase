@@ -1,0 +1,10 @@
+﻿  Binaria.cpp
+C:\Users\donte\Desktop\Programas\Algoritmos\Binaria\Binaria.cpp(9,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\donte\Desktop\Programas\Algoritmos\Binaria\Binaria.cpp(15,27): error C2131: la expresión no se evaluó como una constante
+C:\Users\donte\Desktop\Programas\Algoritmos\Binaria\Binaria.cpp(15,27): message : el error se debió a una lectura de una variable fuera de su duración
+C:\Users\donte\Desktop\Programas\Algoritmos\Binaria\Binaria.cpp(15,27): message : consulte el uso de 'n'
+C:\Users\donte\Desktop\Programas\Algoritmos\Binaria\Binaria.cpp(19,34): error C3863: el tipo de matriz 'int [n]' no es asignable
+C:\Users\donte\Desktop\Programas\Algoritmos\Binaria\Binaria.cpp(21,38): error C3863: el tipo de matriz 'int [n]' no es asignable
+C:\Users\donte\Desktop\Programas\Algoritmos\Binaria\Binaria.cpp(31,38): warning C4552: "<<": el resultado de la expresión no se usa
+C:\Users\donte\Desktop\Programas\Algoritmos\Binaria\Binaria.cpp(41,65): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\donte\Desktop\Programas\Algoritmos\Binaria\Binaria.cpp(41,11): fatal  error C1903: no se puede recuperar de errores anteriores; se detiene la compilación
